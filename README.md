@@ -93,5 +93,5 @@ To run **DataMind** locally, follow these steps:
 ---
 
 ## Contributing
-
+Author - Aarti Jadhav
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
